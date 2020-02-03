@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.grid {
+    background-color: white;
+    width: 10%;
+    margin: 20px auto;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.grid p {
+    padding: 0;
+    margin: 0;
+}
